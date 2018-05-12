@@ -2,3 +2,4 @@ Git has a lot of merits changed by Zed
 Zed i studying the git.
 git is new for me 
 ++
+Git has a mutable index called stage
