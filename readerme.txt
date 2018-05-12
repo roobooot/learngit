@@ -1,2 +1,3 @@
-Git has a lot of merits
+Git has a lot of merits changed by Zed
+Zed is studying the git.
 git is new for me 
